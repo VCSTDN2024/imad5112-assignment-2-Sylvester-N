@@ -17,7 +17,7 @@
         android:layout_height="85dp"
         android:layout_marginBottom="10dp"
         android:gravity="center"
-        android:text="Welcome to the Flashcard Quiz!"
+        android:text="Welcome to the History Quiz!"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="@color/white"
@@ -37,7 +37,7 @@
         android:textAlignment="center"
         android:gravity="center"
         android:textColor="@color/white"
-        android:text="Test your IQ with the Flashcard Quiz" />
+        android:text="Test your IQ with the Flashcard." />
 
     <Space
         android:layout_width="match_parent"

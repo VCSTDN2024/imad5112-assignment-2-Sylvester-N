@@ -28,11 +28,11 @@ class Flashcard : AppCompatActivity() {
     // Companion object to hold the questions, answers, and current question index
     companion object {
         val questions = arrayOf(
-            "Question 1: \n \n All prime numbers are odd.",
-            "Question 2: \n \nIf two angles of a triangle are 60° each, the third angle must be 60°. ",
-            "Question 3: \n \nIn English, the words \"listen\" and \"silent\" contain exactly the same letters.",
-            "Question 4: \n \nWater boils at 90 degrees Celsius at standard atmospheric pressure.",
-            "Question 5: \n \nThe chemical symbol for gold is \"Ag\"."
+            "Question 1: \n \n The Sharpeville Massacre occurred in 1976.",
+            "Question 2: \n \n Nelson Mandela was South Africa’s first black president. ",
+            "Question 3: \n \n The apartheid system in South Africa officially began in 1948.",
+            "Question 4: \n \n The ANC (African National Congress) was formed after the end of apartheid.",
+            "Question 5: \n \n South Africa became a republic in 1961, leaving the British Commonwealth."
         )
         val answers = booleanArrayOf(false, true, true, false, false)
 
