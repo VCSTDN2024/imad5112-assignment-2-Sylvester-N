@@ -52,7 +52,7 @@ These features aim to provide a user beginner friendly and easy to navigate plat
 
 The design of the IQ Quiz was based on the following key considerations:
 
-1. **User Experience (UX)**: The app was designed with the goal of providing an easy-to-navigate user interface, ensuring a seamless user experience.
+1. **User Experience**: The app was designed with the goal of providing an easy-to-navigate user interface, ensuring a seamless user experience.
    
 2. **Simplicity**: The app was built to ensure simplicity and performs well with a goal of ensuring that students gain knowledge and study efficiently with no difficulties.
       
@@ -110,10 +110,10 @@ A video showcasing the app's functionality can be viewed here: [YouTube Video Li
 During the development of this project, I encountered several challenges, including:
 
 1. **Challenge 1**:Initially when the user would attempt to do a quiz, the user was able to proceed to the next question without answering "true" or "false".
-   - **Solution**: Turned out that I had implemented the "BtnNext.isEnabled = false" in the wrong location, therefore Mr Kincade, my IMAD lecturer assisted me by informing me to have a look at my codes and insure that they are all in the correct location.
+   - **Solution**: Turned out that I had implemented the "BtnNext.isEnabled = false" in the wrong location, therefore Mr Kincade, my IMAD lecturer assisted me by informing me to have a look at my codes and ensure that they are all in the correct location.
    
 2. **Challenge 2**: The application would crash as soon as the user would attempt the retry the quiz.
-   - **Solution**: I called and declare the retry button via "findviewbyid", and further implemented a "val intent" function so that the user would be redirected to the flashcard. 
+   - **Solution**: I called and declare the retry button via "findviewbyid" and further implemented a "val intent" function so that the user would be redirected to the flashcard. 
 
 From these challenges, I learned important lessons in utilising the right commands and functions when coding.
 
