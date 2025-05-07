@@ -87,17 +87,14 @@ The workflow ensures that my project is automatically built and tested every tim
 ![Screenshot 2025-05-07 130219](https://github.com/user-attachments/assets/d2dd4396-0b33-4c76-90fe-e55cfccdf389)
 *Caption for screenshot 3: flashcard xml*
 
-![Screenshot 2025-05-07 130229](https://github.com/user-attachments/assets/359cac1d-2890-4d5f-9c46-08721f014914)
-*Caption for screenshot 4: flashcar kotlin file*
-
 ![Screenshot 2025-05-07 130245](https://github.com/user-attachments/assets/f095cae3-d4d7-4b23-a306-c90309eff206)
-*Caption for screenshot 5: flashcard kotlin file*
+*Caption for screenshot 4: flashcard kotlin file*
 
 ![Screenshot 2025-05-07 130313](https://github.com/user-attachments/assets/12764287-321e-42be-ae17-3bc0dc4b77d4)
-*Caption for screenshot 6: Score kotlin file*
+*Caption for screenshot 5: Score kotlin file*
 
 ![Screenshot 2025-05-07 130329](https://github.com/user-attachments/assets/306e4edf-b327-42c1-b541-676c550cd1ca)
-*Caption for screenshot 7: Review kotlin file*
+*Caption for screenshot 6: Review kotlin file*
 
 
 
@@ -173,5 +170,5 @@ In the development of this project, I have used generative AI tools to assist in
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 ![Screenshot 2025-05-06 155053](https://github.com/user-attachments/assets/a293e7ae-113c-485c-9626-df3db2a49259)
-*Caption for screenshot 8: ChatGPT Screenshot*
+*Caption for screenshot 7: ChatGPT Screenshot*
 
