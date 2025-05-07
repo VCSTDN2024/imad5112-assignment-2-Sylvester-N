@@ -88,16 +88,16 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot 3: flashcard xml*
 
 ![Screenshot 2025-05-07 130229](https://github.com/user-attachments/assets/359cac1d-2890-4d5f-9c46-08721f014914)
-*Caption for screenshot 4: *
+*Caption for screenshot 4: flashcar kotlin file*
 
 ![Screenshot 2025-05-07 130245](https://github.com/user-attachments/assets/f095cae3-d4d7-4b23-a306-c90309eff206)
-*Caption for screenshot 5: *
+*Caption for screenshot 5: flashcard kotlin file*
 
 ![Screenshot 2025-05-07 130313](https://github.com/user-attachments/assets/12764287-321e-42be-ae17-3bc0dc4b77d4)
-*Caption for screenshot 6: *
+*Caption for screenshot 6: Score kotlin file*
 
 ![Screenshot 2025-05-07 130329](https://github.com/user-attachments/assets/306e4edf-b327-42c1-b541-676c550cd1ca)
-*Caption for screenshot 7: *
+*Caption for screenshot 7: Review kotlin file*
 
 
 
