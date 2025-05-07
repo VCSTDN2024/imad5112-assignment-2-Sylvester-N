@@ -104,13 +104,11 @@ From these challenges, I learned important lessons in utilising the right comman
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: ![Screenshot 2025-05-07 124850](https://github.com/user-attachments/assets/c9733e87-f773-48ad-9ae8-f7d8fe5f3571)
-
-2. **Feature 2**: ![Screenshot 2025-05-07 124909](https://github.com/user-attachments/assets/c51337d3-4e68-418d-9037-0ad73ae31769)
-
-3. **Feature 3**: ![Screenshot 2025-05-07 124941](https://github.com/user-attachments/assets/fc708f39-6ca2-4a0a-9f1d-6a6bf7b0b187)
-
-4. **Feature 4**: ![Screenshot 2025-05-07 125005](https://github.com/user-attachments/assets/7cb488ea-d10f-4e7c-826f-ba5597ae9b94)
+1. **Feature 1**: More subjects like, mathematics, English, physics and etc.
+2. **Feature 2**: Include word/number answers and not only restrict the question answers to "true" or "false" answers.
+3. **Feature 3**: Include multiple choice questions.
+4. **Feature 4**: Users would be able to use the elimination strategy when answering multiple choice questions.
+5. **Feature 5**: users would be able to solve or rather show working out when answering maths questions. 
 
 
 ## References
@@ -123,8 +121,14 @@ Practical Coding, 09 August 2021. Available at: < https://youtu.be/4lEnLTqsnaw?s
 
 ## List of Figures
 
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
+1. **Figure 1**: ![Screenshot 2025-05-07 124850](https://github.com/user-attachments/assets/c9733e87-f773-48ad-9ae8-f7d8fe5f3571)
+
+2. **Figure 2**: ![Screenshot 2025-05-07 124909](https://github.com/user-attachments/assets/c51337d3-4e68-418d-9037-0ad73ae31769)
+
+3. **Figure 3**: ![Screenshot 2025-05-07 124941](https://github.com/user-attachments/assets/fc708f39-6ca2-4a0a-9f1d-6a6bf7b0b187)
+
+4. **Figure 4**: ![Screenshot 2025-05-07 125005](https://github.com/user-attachments/assets/7cb488ea-d10f-4e7c-826f-ba5597ae9b94)
+
 
 
 ## Disclosure of AI Usage in My Assessment
