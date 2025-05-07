@@ -79,7 +79,7 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ### App Screenshots:
 ![Screenshot 2025-05-07 130146](https://github.com/user-attachments/assets/a8c960d9-53b6-441b-bd9a-3c59f9f16b4c)
-*Caption for screenshot 1: The main interface*
+*Caption for screenshot 1: Main interface*
 
 ![Screenshot 2025-05-07 130200](https://github.com/user-attachments/assets/6504c4b4-9db7-4e8a-b972-8293faf6b9ea)
 *Caption for screenshot 2: Dynamic Background*
