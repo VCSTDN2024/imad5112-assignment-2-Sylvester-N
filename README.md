@@ -13,7 +13,7 @@
 - **Subject**: IMAD
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-2-Sylvester-N.git
 - **YouTube Video**: [YouTube Video Link]
 
 
