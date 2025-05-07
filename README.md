@@ -82,10 +82,10 @@ The workflow ensures that my project is automatically built and tested every tim
 *Caption for screenshot 1: The main interface*
 
 ![Screenshot 2025-05-07 130200](https://github.com/user-attachments/assets/6504c4b4-9db7-4e8a-b972-8293faf6b9ea)
-*Caption for screenshot 2: *
+*Caption for screenshot 2: Dynamic Background*
 
 ![Screenshot 2025-05-07 130219](https://github.com/user-attachments/assets/d2dd4396-0b33-4c76-90fe-e55cfccdf389)
-*Caption for screenshot 3: *
+*Caption for screenshot 3: flashcard xml*
 
 ![Screenshot 2025-05-07 130229](https://github.com/user-attachments/assets/359cac1d-2890-4d5f-9c46-08721f014914)
 *Caption for screenshot 4: *
@@ -173,4 +173,5 @@ In the development of this project, I have used generative AI tools to assist in
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 ![Screenshot 2025-05-06 155053](https://github.com/user-attachments/assets/a293e7ae-113c-485c-9626-df3db2a49259)
+*Caption for screenshot 8: ChatGPT Screenshot*
 
