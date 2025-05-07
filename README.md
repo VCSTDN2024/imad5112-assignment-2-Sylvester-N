@@ -79,12 +79,25 @@ The workflow ensures that my project is automatically built and tested every tim
 
 ### App Screenshots:
 ![Screenshot 2025-05-07 130146](https://github.com/user-attachments/assets/a8c960d9-53b6-441b-bd9a-3c59f9f16b4c)
+*Caption for screenshot 1: The main interface*
+
 ![Screenshot 2025-05-07 130200](https://github.com/user-attachments/assets/6504c4b4-9db7-4e8a-b972-8293faf6b9ea)
+*Caption for screenshot 2: *
+
 ![Screenshot 2025-05-07 130219](https://github.com/user-attachments/assets/d2dd4396-0b33-4c76-90fe-e55cfccdf389)
+*Caption for screenshot 3: *
+
 ![Screenshot 2025-05-07 130229](https://github.com/user-attachments/assets/359cac1d-2890-4d5f-9c46-08721f014914)
+*Caption for screenshot 4: *
+
 ![Screenshot 2025-05-07 130245](https://github.com/user-attachments/assets/f095cae3-d4d7-4b23-a306-c90309eff206)
+*Caption for screenshot 5: *
+
 ![Screenshot 2025-05-07 130313](https://github.com/user-attachments/assets/12764287-321e-42be-ae17-3bc0dc4b77d4)
+*Caption for screenshot 6: *
+
 ![Screenshot 2025-05-07 130329](https://github.com/user-attachments/assets/306e4edf-b327-42c1-b541-676c550cd1ca)
+*Caption for screenshot 7: *
 
 
 
@@ -126,12 +139,16 @@ Practical Coding, 09 August 2021. Available at: < https://youtu.be/4lEnLTqsnaw?s
 ## List of Figures
 
 1. **Figure 1**: ![Screenshot 2025-05-07 124850](https://github.com/user-attachments/assets/c9733e87-f773-48ad-9ae8-f7d8fe5f3571)
+   *Caption for figure 1: Home Screen*
 
-2. **Figure 2**: ![Screenshot 2025-05-07 124909](https://github.com/user-attachments/assets/c51337d3-4e68-418d-9037-0ad73ae31769)
+3. **Figure 2**: ![Screenshot 2025-05-07 124909](https://github.com/user-attachments/assets/c51337d3-4e68-418d-9037-0ad73ae31769)
+   *Caption for figure 2: Quiz question 1*
 
-3. **Figure 3**: ![Screenshot 2025-05-07 124941](https://github.com/user-attachments/assets/fc708f39-6ca2-4a0a-9f1d-6a6bf7b0b187)
+5. **Figure 3**: ![Screenshot 2025-05-07 124941](https://github.com/user-attachments/assets/fc708f39-6ca2-4a0a-9f1d-6a6bf7b0b187)
+   *Caption for figure 3: Score*
 
-4. **Figure 4**: ![Screenshot 2025-05-07 125005](https://github.com/user-attachments/assets/7cb488ea-d10f-4e7c-826f-ba5597ae9b94)
+7. **Figure 4**: ![Screenshot 2025-05-07 125005](https://github.com/user-attachments/assets/7cb488ea-d10f-4e7c-826f-ba5597ae9b94)
+   *Caption for figure 4: Review*
 
 
 
