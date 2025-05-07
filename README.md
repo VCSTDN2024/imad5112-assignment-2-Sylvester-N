@@ -22,7 +22,7 @@
 
 The IQ Quiz App is a mobile application developed as part of an assignment in Mobile Application and Web Development subject. This application was created using the software "Android Studio" and prompted by kotlin, a programming language used in Android Studio. The app's primary purpose is to simply help student study and test their knowledge, especially students who may have short term memory loss. This app is specifically developed for the history subject.
 
-The IQ Quiz App is a flashcard app that consists of true or false questions related to students who have an interest in history, or rather students who are studding history. The quiz questions are based on the syllabus of history and are questions a student might come across in an exam, hence the app was developed to help students study and test their knowledge or rather IQ in the history subject.
+The IQ Quiz App is a flashcard app that consists of true or false questions related to students who have an interest in history, or rather students who are studying history. The quiz questions are based on the syllabus of history and are questions a student might come across in an exam, hence the app was developed to help students study and test their knowledge or rather IQ in the history subject.
 
 This application also provides students with a score rate that grades the student after attempting a quiz, the app also provides the student with feedback on their score or rather grade of the attempted quiz, followed by the corrections of the questions provided in order for the student to be corrected as well as boost their knowledge. 
 
