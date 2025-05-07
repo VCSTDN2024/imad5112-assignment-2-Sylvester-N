@@ -78,11 +78,15 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+![Screenshot 2025-05-07 130146](https://github.com/user-attachments/assets/a8c960d9-53b6-441b-bd9a-3c59f9f16b4c)
+![Screenshot 2025-05-07 130200](https://github.com/user-attachments/assets/6504c4b4-9db7-4e8a-b972-8293faf6b9ea)
+![Screenshot 2025-05-07 130219](https://github.com/user-attachments/assets/d2dd4396-0b33-4c76-90fe-e55cfccdf389)
+![Screenshot 2025-05-07 130229](https://github.com/user-attachments/assets/359cac1d-2890-4d5f-9c46-08721f014914)
+![Screenshot 2025-05-07 130245](https://github.com/user-attachments/assets/f095cae3-d4d7-4b23-a306-c90309eff206)
+![Screenshot 2025-05-07 130313](https://github.com/user-attachments/assets/12764287-321e-42be-ae17-3bc0dc4b77d4)
+![Screenshot 2025-05-07 130329](https://github.com/user-attachments/assets/306e4edf-b327-42c1-b541-676c550cd1ca)
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
