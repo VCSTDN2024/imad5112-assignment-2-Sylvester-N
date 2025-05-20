@@ -14,7 +14,7 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-2-Sylvester-N.git
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: https://youtu.be/h-HXaYXn5S4?si=TXcakDe1V4QmSBFl
 
 
 
@@ -99,7 +99,7 @@ The workflow ensures that my project is automatically built and tested every tim
 
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: https://youtu.be/h-HXaYXn5S4?si=TXcakDe1V4QmSBFl
 
 
 ## Challenges and Learnings
